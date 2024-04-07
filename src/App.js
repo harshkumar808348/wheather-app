@@ -2,7 +2,7 @@ import './App.css';
 import { useState } from 'react';
 
 const api = {
-  key:'18799736e5181461241f53c39e40b1e7',
+  key:'replace key',
   base : 'https://api.openweathermap.org/data/2.5/',
 };
 
